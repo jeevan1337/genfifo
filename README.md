@@ -1,3 +1,6 @@
+
+Genfifo - generate files and folders 
+
 Genfifo is a simple bash script which create multiple file and folder by reading given input file 
 
 Installation: 
